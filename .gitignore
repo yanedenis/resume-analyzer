@@ -1,0 +1,10 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.zip
+*.tfvars
+
+# Built dependencies
+build/
+__pycache__/
